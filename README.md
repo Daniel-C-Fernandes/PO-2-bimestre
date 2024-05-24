@@ -2,7 +2,7 @@
 
 <a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb#1">1. Problema - Mix de Produção / Mistura</a>
 
-<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb#1">
+<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb#2">
 2. Programação Linear Inteira</a>
 
 <hr>
