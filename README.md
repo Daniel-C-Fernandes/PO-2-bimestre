@@ -1,3 +1,10 @@
+# Apresentação da modelagem de problemas de Programação Linear
+
+<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb#1">1. Problema - Mix de Produção / Mistura</a>
+
+
+<hr>
+
 # Lista de Exercícios - 2º semestre de 2024
 
 <div align = "center">
