@@ -1,9 +1,36 @@
 # Apresentação da modelagem de problemas de Programação Linear
 
-<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb#1">1. Problema - Mix de Produção / Mistura</a>
+<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">1. Problema - Mix de Produção / Mistura</a>
 
-<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb#2">
+<br>
+
+<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">
 2. Programação Linear Inteira</a>
+
+<br>
+
+<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">
+3. Problema da Mochila Binária</a>
+
+<br>
+
+<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">
+4. Problema da Mochila Inteira</a>
+
+<br>
+
+<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">
+5. Problema de Transporte</a>
+
+<br>
+
+<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">
+6. Problema de Transporte com transbordo</a>
+
+<br>
+
+<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">
+7. Problema de Designação</a>
 
 <hr>
 
