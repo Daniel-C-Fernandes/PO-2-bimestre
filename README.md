@@ -5,17 +5,22 @@
 <a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">
 2. Programação Linear Inteira</a>
 
+
 <a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">
 3. Problema da Mochila Binária</a>
+
 
 <a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">
 4. Problema da Mochila Inteira</a>
 
+
 <a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">
 5. Problema de Transporte</a>
 
+
 <a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">
 6. Problema de Transporte com transbordo</a>
+
 
 <a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">
 7. Problema de Designação</a>
