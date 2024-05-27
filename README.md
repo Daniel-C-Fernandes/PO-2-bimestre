@@ -18,9 +18,20 @@
 
 # Lista de Exercícios - 2º semestre de 2024
 
+
+### PDF:
+
+
 <div align = "center">
-<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/Modelagem%20de%20Problemas.pdf">Lista de Exercício</a>
- </div>
+ <a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/Modelagem%20de%20Problemas.pdf">Lista de Exercício</a>
+</div>
+
+### Markdown:
+
+<div align = "center">
+ <a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/Gabarito/problemas.ipynb">Lista de Exercício</a>
+</div>
+
 
 <hr>
 
@@ -33,6 +44,12 @@ Os grupos (com, no máximo, 2 pessoas) devem postar seus respectivos trabalhos e
 </div>
 
 ## Atenção: A entrega posterior ou o arquivo que não possua conteúdo e/ou em formato estranho, serão desconsiderados.
+
+<hr>
+
+<div align = "center">
+ <a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/Gabarito/gabarito-trabalho.ipynb"> O gabarito das atividades será publicado aqui para conferência. </a>
+</div>
 
 
 
