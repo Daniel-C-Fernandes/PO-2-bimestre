@@ -14,6 +14,12 @@
 
 <a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">7. Problema de Designação</a><br>
 
+<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">8. Caminho mais curto</a><br>
+
+<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">9. Fluxo máximo</a><br>
+
+<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">10. Árvore eradora mínima</a><br>
+
 <hr>
 
 # Lista de Exercícios - 2º semestre de 2024
