@@ -18,7 +18,7 @@
 
 <a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">9. Fluxo máximo</a><br>
 
-<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">10. Árvore eradora mínima</a><br>
+<a href="https://github.com/Daniel-C-Fernandes/PO-2-bimestre/blob/main/modelagem.ipynb">10. Árvore geradora mínima</a><br>
 
 <hr>
 
